@@ -1,0 +1,2 @@
+# newZadanieKata
+Предпроект Ката
